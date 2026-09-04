@@ -1,0 +1,4 @@
+Model: gpt-4o
+Temperature: 0.20
+Max tokens: 2048
+Top P: 1.00
