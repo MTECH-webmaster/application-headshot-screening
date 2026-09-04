@@ -3,7 +3,7 @@
 This repo contains files used when creating a headshot-screening OpenAI prompt.
 
 ## Images
-The APPROVED and REJECTED folders contain headshot images for both categories.
+The APPROVED and REJECTED folders contain demo headshot images for both categories (source: Pexels.com).
 When using the same prompt and config that is contained in these files, the model should sort these images in the same way.
 
 ## Prompt and Config
